@@ -1,0 +1,21 @@
+{
+  "brandPrimary": "OnceAlife",
+  "brandFallback": "supakitf",
+  "useFallback": false,
+  "products": [
+    {
+      "title": "คู่มือออกจากภาวะหมดไฟด้วยตัวเอง",
+      "tagline": "โฟกัสปัจจุบัน กลับมามีพลังอีกครั้ง — เวอร์ชันปรับปรุง อ่านง่าย นำไปใช้ได้จริง",
+      "price": "฿199",
+      "image": "assets/cover-placeholder.png",
+      "gumroad": "https://gum.co/YOUR_PRODUCT_ID",
+      "sample": "assets/sample.pdf"
+    }
+  ],
+  "links": {
+    "instagram": "https://instagram.com/OnceAlife",
+    "facebook": "https://facebook.com/OnceAlife",
+    "threads": "https://www.threads.net/@OnceAlife",
+    "blockdit": "https://www.blockdit.com/OnceAlife"
+  }
+}
